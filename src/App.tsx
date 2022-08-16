@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
-import './App.css';
 import Portfolio from './pages/Portfolio/Portfolio';
+import './App.scss';
 
 function App() {
   return (
