@@ -6,7 +6,7 @@ import { Navbar } from './toolkit/components';
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <Navbar />
       <Header />
       <About />
